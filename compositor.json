@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "google-react-boilerplate",
-      "subhead": "A quick boilerplate I made for react projects with google branding",
+      "heading": "Google-React-Boilerplate",
+      "subhead": "a quick boilerpalte i made for google branded projects",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -56,6 +56,16 @@
           "component": "ui/GithubButton",
           "user": "TYLANDER",
           "repo": "google-react-boilerplate"
+        }
+      ],
+      "links": [
+        {
+          "href": "www.tylerschmidt.com",
+          "text": "Tyler's Website"
+        },
+        {
+          "href": "www.twitter.com/tylerschmidt",
+          "text": "Tyler's Twitter"
         }
       ]
     },
